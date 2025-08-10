@@ -1,0 +1,34 @@
+[
+  {
+    "id": 101,
+    "name": "Alex Ray",
+    "uname" : "alexray56",
+    "password" : "alex2005",
+    "email": "alex.ray@google.com",
+    "isActive": true
+  },
+  {
+    "id": 102,
+    "name": "Jane Doe",
+    "uname" : "janedoe66",
+    "password" : "jan78ss",
+    "email": "jane.d@google.com",
+    "isActive": false
+  },
+  {
+    "id": 103,
+    "name": "Sam Jones",
+    "uname" : "samjones2005",
+    "password" : "samjon25",
+    "email": "sam.j@google.com",
+    "isActive": true
+  },
+  {
+    "id": 104,
+    "name": "Kavishka Shyamal",
+    "uname" : "shyamal2004",
+    "password" : "shyamal2004",
+    "email": "shyamalk@google.com",
+    "isActive": true
+  }
+]
