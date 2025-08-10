@@ -1,6 +1,8 @@
 # School System
 
-This folder contains a simple school management system implemented in Python. It demonstrates basic file handling, JSON data manipulation, and user authentication.
+## About
+
+This project is a work in progress. The School System aims to provide a simple Python-based management tool for handling school and student data. It demonstrates basic file handling, JSON data manipulation, and user authentication. More features and improvements will be added as development continues.
 
 ## Files
 
@@ -10,6 +12,8 @@ This folder contains a simple school management system implemented in Python. It
 - **student_dashboard.py**: Main script for student login and dashboard functionality.
 
 ## How to Use
+
+[![Run Dashboard](https://img.shields.io/badge/Run-Dashboard-blue?style=for-the-badge)](#how-to-use)
 
 1. Make sure you have Python installed.
 2. Run `student_dashboard.py` to start the student management system:
