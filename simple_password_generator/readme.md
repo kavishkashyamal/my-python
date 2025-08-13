@@ -8,10 +8,12 @@ Simple password generator written by Python
 # Libries
 
 1. random
+   
    ```python
    
    import random
 3. string
+   
    ```python
    
    import string
@@ -21,10 +23,10 @@ Simple password generator written by Python
 1. Generate strong passwords
 2. Choose the length
 3. Include
-   1. UPPERCASE
-   2. lowercase
-   3. digits
-   4. punctuations
+   * UPPERCASE
+   * lowercase
+   * digits
+   * punctuations
 
 ## Usage
 Run the script to generate a password
