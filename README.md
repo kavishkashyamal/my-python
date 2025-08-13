@@ -54,3 +54,5 @@ We welcome contributions from everyone! Follow these steps to contribute:
 * **Follow code style** used in the project.
 
 ---
+# License
+This project is licensed under the [MIT License](https://github.com/kavishkashyamal/my-python/edit/main/LICENSE) - see the LICENSE file for details.
